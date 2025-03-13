@@ -19,12 +19,10 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaela-cristina-araujo-oliveira-19873b352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
 
+<a href="https://giffiles.alphacoders.com/220/220122.gif">
+                    <img width="889" height="500" class="fit-to-container" src="https://giffiles.alphacoders.com/220/220122.gif" alt="Download Aesthetic Night Rain Lofi Anime City Aesthetic Anime Anime Night Rain Anime Gif" title="Download Aesthetic Night Rain Lofi Anime City Aesthetic Anime Anime Night Rain Anime Gif">
 
-
-
-
-
-
+                </a>
 
 #
 
