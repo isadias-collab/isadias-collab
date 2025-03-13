@@ -19,7 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaela-cristina-araujo-oliveira-19873b352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
 
-	https://giffiles.alphacoders.com/220/220122.gif
+<meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif">
 #
 
 <picture align="center">
