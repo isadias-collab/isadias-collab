@@ -40,7 +40,7 @@
 
 <br/>
 <br/>
-
+<img src="https://i.pinimg.com/originals/81/3a/de/813ade99d0c25c4a0b66a92d470cf218.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 237px; margin: 0px; width: 346px;" alt="pixel art animal gif" jsname="kn3ccd">     
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelladias753@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
@@ -59,5 +59,5 @@
 
 
 
-<img src="https://i.pinimg.com/originals/81/3a/de/813ade99d0c25c4a0b66a92d470cf218.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 237px; margin: 0px; width: 346px;" alt="pixel art animal gif" jsname="kn3ccd">                                          
+                                     
 
