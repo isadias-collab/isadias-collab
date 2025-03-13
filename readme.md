@@ -30,4 +30,4 @@
 
 <img src="https://wallpaperaccess.com/full/2641074.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 198px; margin: 0px; width: 352px;" alt="Aesthetic Gif Wallpapers - Top Free Aesthetic Gif Backgrounds -  WallpaperAccess" jsname="kn3ccd">
 
-<img src="https://66.media.tumblr.com/tumblr_maqkxbAC131rfjowdo1_500.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 237px; margin: 0px; width: 237px;" alt="pixel art movie gif | WiffleGif" jsname="kn3ccd">
+
