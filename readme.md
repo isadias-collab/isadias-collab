@@ -8,7 +8,7 @@
 
 #
 
-<p align="center"> Olá sou Estudante do Técnico de Desenvolvimento de Sistemas no Senai!.  Buscando sempre mais o aprendizado 🏎️❤️
+<p align="center"> 🎬💻 Estudante do Técnico em Desenvolvimento de Sistemas no SENAI, apaixonada por cinema e tecnologia. Sempre explorando novas histórias, seja no código ou na tela! 🚀
   
 #
 
