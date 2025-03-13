@@ -10,21 +10,20 @@
 #
 
 <p align="center"> 🎬💻 Estudante do Técnico em Desenvolvimento de Sistemas no SENAI, apaixonada por cinema e tecnologia. Sempre explorando novas histórias, seja no código ou na tela! 🚀
+
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
+<h3 align="left">Connect with me!</h3>
   
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelladias753@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaela-cristina-araujo-oliveira-19873b352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
 
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="left">Connect with me!</h3>
 
 
-<a href="https://giffiles.alphacoders.com/220/220122.gif">
-                    <img width="889" height="500" class="fit-to-container" src="https://giffiles.alphacoders.com/220/220122.gif" alt="Download Aesthetic Night Rain Lofi Anime City Aesthetic Anime Anime Night Rain Anime Gif" title="Download Aesthetic Night Rain Lofi Anime City Aesthetic Anime Anime Night Rain Anime Gif">
 
-                </a>
+
 
 
 #
