@@ -14,7 +14,32 @@
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
-  
+<p align="left">
+   <a href="[https://www.linkedin.com/in/j%C3%BAlia-souza-moreira-428736352/](https://www.linkedin.com/in/isabella-dias)">
+        <img 
+            alt="Linkedins" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a> 
+    <a href="https://github.com/juliaaszm?tab=repositoriess&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/juliaaszm?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/rjuliaaszm?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub!!" 
+            src="https://custom-icon-badges.demolab.com/github/followers/juliaaszm?color=d33f49&labelColor=d33f49&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
+
+<br/>
+<br/>
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelladias753@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaela-cristina-araujo-oliveira-19873b352/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
