@@ -31,23 +31,6 @@
         />
    </a>
 
-   <!-- Seguidores -->
-   <a href="https://github.com/isabella-dias?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub!!" 
-            src="https://komarev.com/ghpvc/?username=isabella-dias&label=Seguidores&color=d33f49&style=for-the-badge"
-        />
-   </a>
-
-   <!-- Estrelas totais -->
-   <a href="https://github.com/isabella-dias?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://github-readme-stats.vercel.app/api?username=isabella-dias&show_icons=true&hide=contribs,prs&count_private=true&custom_title=⭐%20Total%20de%20Estrelas&theme=dracula"
-        />
-   </a>
 </p>
 
 <br/>
