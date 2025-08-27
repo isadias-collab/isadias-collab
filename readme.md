@@ -21,7 +21,7 @@
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
- <p align="left">
+ align="left">
 
  <img 
        alt="Total de estrelas" 
@@ -30,7 +30,6 @@
      />
    </a>
 
-   <!-- Seguidores -->
    <a href="https://github.com/isadias-collab?tab=followers">
      <img 
        alt="Seguidores" 
