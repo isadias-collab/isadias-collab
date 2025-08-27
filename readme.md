@@ -45,25 +45,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:isabelladias753@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/isinhadiass/)
 
-<meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif">
-#
-
-<!-- Estatísticas GitHub -->
-<div align="center">
-  <a href="https://github.com/isabella-dias">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabella-dias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-dias&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-<!-- Snake Animation -->
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabella-dias/isabella-dias/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isabella-dias/isabella-dias/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabella-dias/isabella-dias/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://wallpaperaccess.com/full/2641074.gif" style="max-width: 1920px; height: 198px; margin: 0px; width: 352px;" alt="Aesthetic Gif Wallpapers">
+<meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif"> # <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> </picture> <img src="https://wallpaperaccess.com/full/2641074.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 198px; margin: 0px; width: 352px;" alt="Aesthetic Gif Wallpapers - Top Free Aesthetic Gif Backgrounds - WallpaperAccess" jsname="kn3ccd">
 
 
 
