@@ -21,7 +21,7 @@
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
- p> align="left">
+ <p> align="left">
 
  <img 
        alt="Total de estrelas" 
