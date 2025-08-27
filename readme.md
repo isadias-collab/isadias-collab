@@ -34,7 +34,7 @@
 
 <br>
 <br>
-<meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif"> # <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> </picture> <img src="https://wallpaperaccess.com/full/2641074.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 198px; margin: 0px; width: 352px;" alt="Aesthetic Gif Wallpapers - Top Free Aesthetic Gif Backgrounds - WallpaperAccess" jsname="kn3ccd">
+<meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif"> <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg"> </picture> <img src="https://wallpaperaccess.com/full/2641074.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 1920px; height: 198px; margin: 0px; width: 352px;" alt="Aesthetic Gif Wallpapers - Top Free Aesthetic Gif Backgrounds - WallpaperAccess" jsname="kn3ccd">
 
 
 
