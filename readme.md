@@ -22,14 +22,6 @@
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
  <p align="left">
-  
-   <a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-   </a>
 
 </p>
 
