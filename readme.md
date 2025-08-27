@@ -21,8 +21,8 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-<p align="center">
-<h3 align="left">Connect with me!🔗</h3>
+<h3 align="center">🌐 Connect with me!</h3>
+
 <p align="center">
   
    <a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
