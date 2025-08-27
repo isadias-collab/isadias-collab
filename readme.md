@@ -21,21 +21,33 @@
             title="Linkedin" 
             src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    </a> 
-    <a href="https://github.com/isabella-dias?tab=repositories&sort=stargazers">
+ <p align="left">
+   <!-- Linkedin -->
+   <a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/badge/-Meu%20Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+   </a>
+
+   <!-- Seguidores -->
+   <a href="https://github.com/isabella-dias?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub!!" 
+            src="https://komarev.com/ghpvc/?username=isabella-dias&label=Seguidores&color=d33f49&style=for-the-badge"
+        />
+   </a>
+
+   <!-- Estrelas totais -->
+   <a href="https://github.com/isabella-dias?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/isabella-dias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            title="Total de estrelas no GitHub" 
+            src="https://github-readme-stats.vercel.app/api?username=isabella-dias&show_icons=true&hide=contribs,prs&count_private=true&custom_title=⭐%20Total%20de%20Estrelas&theme=dracula"
         />
-      
-   <a href="https://github.com/isabella-dias?tab=followers">
-    <img 
-        alt="Seguidores" 
-        title="Me siga no GitHub!!" 
-        src="https://img.shields.io/github/followers/isabella-dias?color=d33f49&label=Seguidores&logo=github&style=for-the-badge"
-    />
-</a>
+   </a>
 </p>
 
 <br/>
