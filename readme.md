@@ -44,21 +44,7 @@
   />
 </a>
 
-</p>
-
-<br/>
-<br/>
-
-
-<p align="center">
-
-  <a href="mailto:isabelladias753@gmail.com">
-    <img alt="E-mail" title="E-mail" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-
-  
- <p align="center">
-  <!-- Instagram -->
+<!-- Instagram -->
   <a href="https://www.instagram.com/isinhadiass/">
     <img 
       alt="Instagram" 
@@ -66,11 +52,11 @@
       src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
     />
   </a>
+
 </p>
 
-
-
-
+<br/>
+<br/>
 
 <meta itemprop="contentUrl" href="https://giffiles.alphacoders.com/220/220122.gif"> <picture align="center"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg"> <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 
