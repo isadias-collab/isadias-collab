@@ -57,10 +57,17 @@
   </a>
 
   
+ <p align="center">
+  <!-- Instagram -->
   <a href="https://www.instagram.com/isinhadiass/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img 
+      alt="Instagram" 
+      title="Instagram" 
+      src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
+    />
   </a>
 </p>
+
 
 
 
