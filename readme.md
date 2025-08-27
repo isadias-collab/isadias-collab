@@ -1,7 +1,7 @@
 # <h1 align="center">Isa Days📽️👩‍💻</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AC+Bem-vindo+ao+meu+perfil!+%F0%9F%92%BB+Explorando+o+universo+do+cinema+e+da+tecnologia+%F0%9F%9A%80" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AC+Bem-vindo+ao+meu+perfil!+%F0%9F%92%BB+" alt="Typing SVG">
   </a>
 </div>
 
