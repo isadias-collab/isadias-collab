@@ -21,6 +21,7 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
+<p align="center">
 <h3 align="left">Connect with me!🔗</h3>
 <p align="center">
   
@@ -43,8 +44,6 @@
     src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-000?style=for-the-badge&logo=letterboxd&logoColor=white&color=553399"
   />
 </a>
-
-<!-- Instagram -->
   <a href="https://www.instagram.com/isinhadiass/">
     <img 
       alt="Instagram" 
@@ -52,7 +51,6 @@
       src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" 
     />
   </a>
-
 </p>
 
 <br/>
