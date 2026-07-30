@@ -20,14 +20,7 @@
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-- 🔭 Atualmente estudando: **Desenvolvimento de Sistemas** (SENAI)
-- 🌱 Aprendendo: **Figma, UX/UI e Design Thinking**
-- 🎯 Buscando: oportunidade de **estágio em Design de Produto / UX/UI**
-- 🎬 Fora do código: cinéfila, sempre catalogando filmes no Letterboxd
-
-<br/>
-
-<h3 align="center">🌐 Connect with me!</h3>
+<h3 align="center">Connect with me!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
@@ -60,16 +53,15 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
 </picture>
 
 ________________________________________________________________
 
-<h3 align="center">📊 Estatísticas</h3>
+<h3 align="center">Estatísticas</h3>
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=isadias-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" 
+    src="https://github-stats-extended.vercel.app/api?username=isadias-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" 
     height="150" 
     alt="stats graph"  
   />
@@ -77,7 +69,7 @@ ________________________________________________________________
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isadias-collab&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br&order=2"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=isadias-collab&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br&order=2"
     height="150"
     alt="top languages graph"
   />
