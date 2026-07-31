@@ -25,7 +25,7 @@ Estudante de Desenvolvimento de Sistemas (SESI/SENAI), com perfil de liderança 
 
 <h3 align="center" style="color:#689BAD;">🛠️ Ferramentas &amp; Tecnologias</h3>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,mysql,github" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,mysql,github,vscode" alt="Skills"/>
 </div>
 
 
