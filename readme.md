@@ -1,84 +1,89 @@
-<h1 align="center">Isa Dias 👩🏻‍💻</h1>
-
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b19cd9&center=true&vCenter=true&width=600&lines=%F0%9F%8E%AC+Bem-vindo+ao+meu+perfil!+%F0%9F%92%BB+" alt="Typing SVG">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,100:6A5ACD&height=220&section=header&text=Isa%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Design%20de%20Produtos%20Digitais%20%7C%20UX%2FUI%20%7C%20Cinema&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B19CD9&center=true&vCenter=true&width=600&lines=Design+de+Produtos+Digitais+(UX%2FUI);Desenvolvimento+de+Sistemas;Tecnologia+%2B+Cinema+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍-Brasil-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓-SENAI-B19CD9?style=flat-square" />
+
 </div>
 
-<img align="center" alt="" src="./src/header-gif.gif">
+<br/>
 
-#
+## 🎯 Sobre mim
 
-<p align="center">
-🎬💻 Estudante do Técnico em Desenvolvimento de Sistemas no SENAI, com foco em Design de Produtos Digitais (UX/UI). Apaixonada por cinema e tecnologia — sempre explorando novas histórias, seja no Figma ou na tela! 🚀
-</p>
+Estudante do Técnico em Desenvolvimento de Sistemas no **SENAI**, com foco em **Design de Produtos Digitais (UX/UI)**.
 
-<img align="right" alt="" height="190px" src="./src/study.gif">
-
-<h3 align="center">Connect with me!</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Meu%20LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/isadias-collab?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" title="Total de estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/isadias-collab?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-  </a>
-  <a href="https://github.com/isadias-collab?tab=followers">
-    <img alt="Seguidores" title="Me siga no GitHub!!" src="https://custom-icon-badges.demolab.com/github/followers/isadias-collab?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-  </a>
-  <a href="https://letterboxd.com/isinhamacaco/">
-    <img alt="Letterboxd" title="Me siga no Letterboxd!" src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-000?style=for-the-badge&logo=letterboxd&logoColor=white&color=553399" />
-  </a>
-  <a href="https://www.instagram.com/isinhadiass/">
-    <img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+- Estudante de Desenvolvimento de Sistemas (SESI/SENAI), com perfil de liderança e organização, adquirido ao liderar equipes em projetos com metodologia ágil Scrum. Tenho afinidade por design de produtos digitais, prototipação em Figma e UX/UI. Busco estágio para aplicar minhas competências em design e gestão de projetos.
 
 <br/>
 
-<h3 align="center">🛠️ Ferramentas & Skills</h3>
+## 🛠️ Ferramentas & Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github" />
-</p>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,github" alt="Skills"/>
+</div>
 
 <br/>
 
-<picture align="center">
+## 🔗 Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/isabella-dias-797a621a2/">
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/isinhadiass/">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://letterboxd.com/isinhamacaco/">
+  <img alt="Letterboxd" src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white" />
+</a>
+<a href="https://github.com/isadias-collab?tab=repositories&sort=stargazers">
+  <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/isadias-collab?color=55960C&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
+</a>
+<a href="https://github.com/isadias-collab?tab=followers">
+  <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/isadias-collab?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
 </picture>
 
-________________________________________________________________
-
-<h3 align="center">Estatísticas</h3>
-
-<div align="center">
-  <img 
-    src="https://github-stats-extended.vercel.app/api?username=isadias-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false&order=1" 
-    height="150" 
-    alt="stats graph"  
-  />
 </div>
 
-<div align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=isadias-collab&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br&order=2"
-    height="150"
-    alt="top languages graph"
-  />
-</div>
+<br/>
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=isadias-collab&theme=tokyonight&hide_border=false&order=3"
-    height="150"
-    alt="github streak stats"
-  />
+
+<img src="https://github-stats-extended.vercel.app/api?username=isadias-collab&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="165" alt="Estatísticas gerais"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=isadias-collab&layout=compact&theme=tokyonight&hide_border=false&locale=pt-br" height="165" alt="Linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com/?user=isadias-collab&theme=tokyonight&hide_border=false" height="165" alt="Streak de contribuições"/>
+
 </div>
 
+<br/>
+
+<div align="center">
+<sub> Obrigada pela visita! Fique à vontade para explorar meus repositórios.</sub>
+</div>
 
 
 
