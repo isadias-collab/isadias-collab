@@ -9,11 +9,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=689BAD&center=true&vCenter=true&width=600&lines=Design+de+Produtos+Digitais+(UX%2FUI);Desenvolvimento+de+Sistemas;Tecnologia+%2B+Cinema+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=689BAD&center=true&vCenter=true&width=600&lines=Design+de+Produtos+Digitais+(UX%2FUI);Desenvolvimento+de+Sistemas" alt="Typing SVG" />
 
 </div>
-
-<br/>
 
 ---
 
