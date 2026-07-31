@@ -1,6 +1,5 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,100:6A5ACD&height=220&section=header&text=Isa%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20UX%2FUI%20%7C%20Design&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img width="1600" height="400" alt="image" src="https://github.com/user-attachments/assets/40a91e3c-0611-4975-a8b9-032b8c12af9e" />
 
 <br/>
 
