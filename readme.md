@@ -17,8 +17,6 @@
 
 ## 🎯 Sobre mim
 
-Estudante do Técnico em Desenvolvimento de Sistemas no **SENAI**, com foco em **Design de Produtos Digitais (UX/UI)**.
-
 - Estudante de Desenvolvimento de Sistemas (SESI/SENAI), com perfil de liderança e organização, adquirido ao liderar equipes em projetos com metodologia ágil Scrum. Tenho afinidade por design de produtos digitais, prototipação em Figma e UX/UI. Busco estágio para aplicar minhas competências em design e gestão de projetos.
 
 <br/>
