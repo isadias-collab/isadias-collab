@@ -8,20 +8,22 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍-Brasil-6A5ACD?style=flat-square" />
-<img src="https://img.shields.io/badge/🎓-SENAI-B19CD9?style=flat-square" />
+<img src="https://img.shields.io/badge/Brasil-6A5ACD?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/SENAI-B19CD9?style=flat-square&logo=googlescholar&logoColor=white" />
 
 </div>
 
 <br/>
 
-## 🎯 Sobre mim
+<h3 align="center">Sobre mim</h3>
 
-- Estudante de Desenvolvimento de Sistemas (SESI/SENAI), com perfil de liderança e organização, adquirido ao liderar equipes em projetos com metodologia ágil Scrum. Tenho afinidade por design de produtos digitais, prototipação em Figma e UX/UI. Busco estágio para aplicar minhas competências em design e gestão de projetos.
+<p align="center">
+Estudante de Desenvolvimento de Sistemas (SESI/SENAI), com perfil de liderança e organização, adquirido ao liderar equipes em projetos com metodologia ágil Scrum. Tenho afinidade por design de produtos digitais, prototipação em Figma e UX/UI. Busco estágio para aplicar minhas competências em design e gestão de projetos.
+</p>
 
 <br/>
 
-## 🛠️ Ferramentas & Tecnologias
+<h3 align="center">Ferramentas &amp; Tecnologias</h3>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=figma,html,css,js,mysql,github" alt="Skills"/>
@@ -29,7 +31,7 @@
 
 <br/>
 
-## 🔗 Conecte-se comigo
+<h3 align="center">Conecte-se comigo</h3>
 
 <div align="center">
 
@@ -41,6 +43,7 @@
 </a>
 <a href="https://letterboxd.com/isinhamacaco/">
   <img alt="Letterboxd" src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white" />
+</a>
 <a href="https://github.com/isadias-collab?tab=followers">
   <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/isadias-collab?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
 </a>
@@ -50,17 +53,16 @@
 <br/>
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
 </picture>
-
 </div>
 
 <br/>
 
-## 📊 Estatísticas
+<h3 align="center">Estatísticas</h3>
 
 <div align="center">
 
@@ -75,9 +77,8 @@
 <br/>
 
 <div align="center">
-<sub> Obrigada pela visita! Fique à vontade para explorar meus repositórios.</sub>
+<sub>Obrigada pela visita! Fique à vontade para explorar meus repositórios.</sub>
 </div>
-
 
 
 
