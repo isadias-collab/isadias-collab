@@ -43,10 +43,6 @@ Estudante do Técnico em Desenvolvimento de Sistemas no **SENAI**, com foco em *
 </a>
 <a href="https://letterboxd.com/isinhamacaco/">
   <img alt="Letterboxd" src="https://custom-icon-badges.demolab.com/badge/-Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white" />
-</a>
-<a href="https://github.com/isadias-collab?tab=repositories&sort=stargazers">
-  <img alt="Estrelas" src="https://custom-icon-badges.demolab.com/github/stars/isadias-collab?color=55960C&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
-</a>
 <a href="https://github.com/isadias-collab?tab=followers">
   <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/isadias-collab?color=236AD3&labelColor=1155BA&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
 </a>
