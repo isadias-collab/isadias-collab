@@ -24,7 +24,7 @@
 ## 🛠️ Ferramentas & Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,mysql,github,canva" alt="Skills"/>
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,mysql,github" alt="Skills"/>
 </div>
 
 <br/>
