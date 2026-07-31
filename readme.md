@@ -41,7 +41,7 @@
 <h3 align="center">🛠️ Ferramentas & Skills</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,html,css,js,py,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,github" />
 </p>
 
 <br/>
