@@ -60,7 +60,6 @@ Estudante do Técnico em Desenvolvimento de Sistemas no **SENAI**, com foco em *
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/isadias-collab/isadias-collab/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
