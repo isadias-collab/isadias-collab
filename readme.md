@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,100:6A5ACD&height=220&section=header&text=Isa%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Design%20de%20Produtos%20Digitais%20%7C%20UX%2FUI%20%7C%20Cinema&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,100:6A5ACD&height=220&section=header&text=Isa%20Dias&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Sistemas%20%7C%20UX%2FUI%20%7C%20Design&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
